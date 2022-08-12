@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.0",
+  "description": "This is mi first project using JavaScript, Tailwind CSS y HTML5",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./css/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasVillafranco/Proyecto-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasVillafranco/Proyecto-1/issues"
+  },
+  "homepage": "https://github.com/ThomasVillafranco/Proyecto-1#readme"
+}
