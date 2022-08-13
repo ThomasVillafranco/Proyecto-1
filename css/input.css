@@ -2,6 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.nav-bar {
-  @apply fixed z-10 w-full  px-2 bg-secondary text-white flex justify-between items-center;
-}
