@@ -4,7 +4,9 @@
   "description": "This is mi first project using JavaScript, Tailwind CSS y HTML5",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./css/input.css -o ./src/output.css --watch"
+    "build": "npx tailwindcss -i ./css/input.css -o ./src/output.css --watch",
+    "deploy": "gh-pages -d src"
+  
   },
   "repository": {
     "type": "git",
