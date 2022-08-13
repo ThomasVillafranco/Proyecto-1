@@ -855,21 +855,6 @@ video {
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
 
-.nav-bar {
-  position: fixed;
-  z-index: 10;
-  display: flex;
-  width: 100%;
-  align-items: center;
-  justify-content: space-between;
-  --tw-bg-opacity: 1;
-  background-color: rgb(6 0 0 / var(--tw-bg-opacity));
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
   color: rgb(255 108 15 / var(--tw-text-opacity));
@@ -964,3 +949,4 @@ video {
          column-gap: 2rem;
   }
 }
+
