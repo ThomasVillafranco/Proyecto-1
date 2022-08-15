@@ -2,7 +2,7 @@
   "name": "proyecto-1",
   "version": "1.0.0",
   "description": "This is mi first project using JavaScript, Tailwind CSS y HTML5",
-  "main": "index.html",
+  "main": "src/index.html",
   "scripts": {
     "build": "npx tailwindcss -i ./css/input.css -o ./src/output.css --watch",
     "deploy": "gh-pages -d src"
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/ThomasVillafranco/Proyecto-1/issues"
   },
-  "homepage": "https://github.com/ThomasVillafranco/Proyecto-1#readme",
+  "homepage": "https://thomasvillafranco.github.io/Proyecto-1/index.html",
   "dependencies": {
     "glob": "^8.0.3"
   },
