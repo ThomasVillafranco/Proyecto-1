@@ -7,6 +7,7 @@ module.exports = {
         "primary": "#ff6c0f",
         "secondary": "#060000",
         "youtube":"#ff0000",
+        "backgound": "#dad5cb",
       },
       height: {
         "80": "20rem",
